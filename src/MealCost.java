@@ -4,10 +4,7 @@ import java.util.Scanner;
  * Created by Sarvajna on 08-07-2017.
  */
 public class MealCost {
-    public static void main(String[] args) {
 
-        // Print your result
-    }
     MealCost(){
         Scanner scan = new Scanner(System.in);
         double mealCost = scan.nextDouble(); // original meal price

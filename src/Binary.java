@@ -5,9 +5,7 @@ import java.util.Scanner;
  * Created by Sarvajna on 08-07-2017.
  */
 public class Binary {
-    public static void main(String[] args) {
 
-    }
     Binary(){
         Scanner sc=new Scanner(System.in);
         HashMap<Integer,Integer> hm=new HashMap<>();

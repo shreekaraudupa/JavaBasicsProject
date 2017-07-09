@@ -4,10 +4,7 @@ import java.util.Scanner;
  * Created by Sarvajna on 08-07-2017.
  */
 public class StringEvenOdd {
-    public static void main(String[] args) {
-        // TODO Auto-generated method stub
 
-    }
     StringEvenOdd(){
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter test case");

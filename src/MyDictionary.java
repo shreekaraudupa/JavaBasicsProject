@@ -7,10 +7,7 @@ import java.util.Scanner;
  */
 public class MyDictionary {
 
-    public static void main(String[] args) {
-        // TODO Auto-generated method stub
 
-    }
     MyDictionary(){
 
         Scanner sc=new Scanner(System.in);
